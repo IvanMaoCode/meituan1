@@ -13,5 +13,7 @@
 @end
 
 @implementation ViewController
-
+-(void)test2{
+	NSLog(@"好好休息");
+}
 @end
