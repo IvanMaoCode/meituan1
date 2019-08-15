@@ -19,7 +19,7 @@
 	// Do any additional setup after loading the view.
 	NSLog(@"好好工作");
 	NSLog(@"张三傻X");
-	NSLog(@"张三牛X");
+	NSLog(@"张三牛X"); 
 }
 -(void)test{
 	
