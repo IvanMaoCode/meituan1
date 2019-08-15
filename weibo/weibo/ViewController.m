@@ -27,5 +27,7 @@
 -(void)test{
 	
 }
-
+-(void)fixBug{
+	NSLog(@"这个是修复了1.0bug的1.1版本");
+}
 @end
